@@ -7,5 +7,11 @@
     <color name="black">#ff000000</color>
     <color name="tab_background">#ff2c9195</color>
     <color name="blue_text_007dff">#ff007dff</color>
+    <color name="backgound_fcfcfc">#fffcfcfc</color>
+    <color name="black_alpha_5">#ffefefef</color>
+
+    <color name="tab_selected_line_def">#ff007dff</color>
+    <color name="tab_text_selected_def">#ff007dff</color>
+    <color name="tab_text_normal_def">#ff000000</color>
 
 </resources>

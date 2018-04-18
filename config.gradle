@@ -18,7 +18,7 @@ ext {
             //android-support
             "support-v4"            :   "com.android.support:support-v4:${dependVersion.support}",
             "appcompat-v7"          :   "com.android.support:appcompat-v7:${dependVersion.support}",
-//            "design"                :   "com.android.support:design:${dependVersion.support}",
+            "design"                :   "com.android.support:design:${dependVersion.support}",
 //            "recyclerview"          :   "com.android.support:recyclerview-v7:${dependVersion.support}",
 //            "cardview"              :   "com.android.support:cardview-v7:${dependVersion.support}",
 //            "customtabs"            :   "com.android.support:customtabs:${dependVersion.support}",

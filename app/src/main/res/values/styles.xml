@@ -16,5 +16,8 @@
         <item name="android:background">@drawable/no_wifi_setting_button</item>
     </style>
 
+    <style name="CustomTabLayoutTextAppearance" parent="TextAppearance.AppCompat.Widget.ActionBar.Title.Inverse">
+        <item name="android:textSize">@dimen/tab_textsize_15sp</item>
+    </style>
 
 </resources>
