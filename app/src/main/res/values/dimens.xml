@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="res_textsize_16sp">16sp</dimen>
+    <dimen name="tab_column_height">46dp</dimen>
+
+    <dimen name="no_wifi_width">66dp</dimen>
+    <dimen name="no_wifi_height">66dp</dimen>
+
+    <dimen name="loading_pb_width">70dp</dimen>
+    <dimen name="loading_pb_height">70dp</dimen>
+    <dimen name="loading_text_top">1dp</dimen>
+    <dimen name="no_wifi_top">100dp</dimen>
+    <dimen name="text_size_12sp">12sp</dimen>
+
+    <dimen name="alertDialog_width">324dp</dimen>
+    <dimen name="wifi_setting_height">40dp</dimen>
+    <dimen name="wifi_setting_bottom">16dp</dimen>
+    <dimen name="wifi_setting_lef">16dp</dimen>
+    <dimen name="wifi_setting_right">16dp</dimen>
+
+    <dimen name="res_textsize_10dp">10.0dp</dimen>
+    <dimen name="res_textsize_10sp">10.0sp</dimen>
+    <dimen name="res_textsize_11dp">11.0dp</dimen>
+    <dimen name="res_textsize_11sp">11.0sp</dimen>
+    <dimen name="res_textsize_12dp">12.0dp</dimen>
+    <dimen name="res_textsize_12sp">12.0sp</dimen>
+    <dimen name="res_textsize_13dp">13.0dp</dimen>
+    <dimen name="res_textsize_13sp">13sp</dimen>
+    <dimen name="res_textsize_14dp">14.0dp</dimen>
+    <dimen name="res_textsize_14sp">14.0sp</dimen>
+    <dimen name="res_textsize_15dp">15.0dp</dimen>
+    <dimen name="res_textsize_15sp">15.0sp</dimen>
+    <dimen name="res_textsize_16dp">16.0dp</dimen>
+    <dimen name="res_textsize_17sp">17.0sp</dimen>
+    <dimen name="res_textsize_18dp">18.0dp</dimen>
+    <dimen name="res_textsize_18sp">18.0sp</dimen>
+    <dimen name="res_textsize_21dp">21.0dp</dimen>
+    <dimen name="res_textsize_21sp">21.0sp</dimen>
+
+</resources>

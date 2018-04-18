@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">rx_retrofit</string>
+
+
+    <string name="no_available_network">网络未连接，请点击重试</string>
+    <string name="setting_network">设置网络</string>
+    <string name="str_loading">正在加载，请稍候…</string>
+
+</resources>
